@@ -12,6 +12,9 @@ public class Application {
 		System.out.println("나는 master쪽 간다");
 		System.out.println("나는 master쪽 간다2");
 
+		System.out.println("나는 dev1쪽 간다");
+		System.out.println("나는 dev1쪽 간다2");
+
 	}
 
 }
