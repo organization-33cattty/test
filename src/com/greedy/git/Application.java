@@ -10,6 +10,8 @@ public class Application {
 		System.out.println("전 원래 코딩중 입니다.");
 
 		System.out.println("나는 dev1쪽 간다");
+		System.out.println("나는 dev1쪽 간다2");
+
 	}
 
 }
